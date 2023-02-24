@@ -9,9 +9,9 @@ The Counter App consists of three separate applications (one container and two s
 
 ## Tech Stack
 
-**Container & Counter**: React
+**Container App & Counter App*: React
 
-**Message**: VueJS
+**Message App**: VueJS
 
 **Module bundler**: Webpack
 
